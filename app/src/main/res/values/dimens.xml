@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_size">2dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_small_medium">10dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_high">30dp</dimen>
+    <dimen name="text_high_high">35sp</dimen>
+    <dimen name="text_high">30sp</dimen>
+    <dimen name="text_medium">20sp</dimen>
+    <dimen name="text_medium_low">18sp</dimen>
+    <dimen name="text_low">15sp</dimen>
+</resources>

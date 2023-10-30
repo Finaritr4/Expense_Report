@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expense Report</string>
+    <string name="expense">Expenses</string>
+    <string name="select_date">SELECT A DATE</string>
+    <string name="detail">Détail</string>
+    <string name="current_week">%s</string>
+</resources>
